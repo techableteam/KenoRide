@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "962647790880",
+    "firebase_url": "https://kenoride-74b84-default-rtdb.firebaseio.com",
+    "project_id": "kenoride-74b84",
+    "storage_bucket": "kenoride-74b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962647790880:android:9955e3f8b1fae9c0f7f345",
+        "android_client_info": {
+          "package_name": "com.uber.kenorider_driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAir7z8tZl3QU5771NbaZqhF6_PhZE18Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
